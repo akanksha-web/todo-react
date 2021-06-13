@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.66c63164.chunk.css",
+    "main.js": "/todo-react/static/js/main.cece3358.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.cece3358.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.fbbf96fb.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.fbbf96fb.js.map",
+    "static/js/2.d3841104.chunk.js": "/todo-react/static/js/2.d3841104.chunk.js",
+    "static/js/2.d3841104.chunk.js.map": "/todo-react/static/js/2.d3841104.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "static/css/main.66c63164.chunk.css.map": "/todo-react/static/css/main.66c63164.chunk.css.map",
+    "static/js/2.d3841104.chunk.js.LICENSE.txt": "/todo-react/static/js/2.d3841104.chunk.js.LICENSE.txt",
+    "static/media/sticky.3da92ce7.jpg": "/todo-react/static/media/sticky.3da92ce7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbbf96fb.js",
+    "static/js/2.d3841104.chunk.js",
+    "static/css/main.66c63164.chunk.css",
+    "static/js/main.cece3358.chunk.js"
+  ]
+}
